@@ -8,7 +8,7 @@ public class ex02 {
         float distancia, gas, mediaGas;
 
         Scanner ler = new Scanner(System.in);
-        System.out.printf("CÁLCULO DE GASTO DE COMBUSTÍVEL\n\n");
+        System.out.printf("\nCÁLCULO DE GASTO DE COMBUSTÍVEL\n\n");
         System.out.println("Qual foi a distancia percorrida? ");
         distancia = ler.nextFloat();
 
